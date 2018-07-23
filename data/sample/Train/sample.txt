@@ -1,0 +1,1 @@
+/Users/zhangyiming/Desktop/CRNN_Tensorflow-master/data/sample/Train/373_pilasters_14845.jpg pilasters
